@@ -88,7 +88,7 @@ Turkey,TUR,2021,16.517044
 Turkmenistan,TKM,2021,0.007483229
 Ukraine,UKR,2021,6.1008415
 United Kingdom,GBR,2021,17.946543
-United States,USA,2021,10.655991
+United States of America,USA,2021,10.655991
 Upper-middle-income countries,,2021,14.183052
 Uzbekistan,UZB,2021,2.6506786
 Venezuela,VEN,2021,28.434155
@@ -119,14 +119,14 @@ Cameroon,,,0
 Central African Republic,,,0
 Chad,,,0
 Comoros,,,0
-Congo,,,0
+Dem. Rep. Congo,,,0
 Costa Rica,,,0
 Cote d'Ivoire,,,0
 Cuba,,,0
 Cyprus,,,0
 Djibouti,,,0
 Dominica,,,0
-Dominican Republic,,,0
+Dominican Rep.,,,0
 El Salvador,,,0
 Equatorial Guinea,,,0
 Eritrea,,,0
@@ -221,3 +221,5 @@ Vatican City,,,0
 Yemen,,,0
 Zambia,,,0
 Zimbabwe,,,0
+Greenland,,,0
+Antarctica,,,0
